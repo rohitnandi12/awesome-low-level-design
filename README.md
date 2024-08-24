@@ -8,17 +8,17 @@
 This repository contains resources to learn Low Level Design (LLD) / Object Oriented Design (OOD) and prepare for interviews.
 
 ## 📌 Fundamental Concepts
-- [Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code)
-- [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-- [SOLID Principles with Code](https://blog.algomaster.io/p/solid-principles-explained-with-code)
-- [DRY Principle](https://blog.algomaster.io/p/082450d8-0e7b-4447-a8dc-b7308e45f048)
+- ~~[Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code)~~
+- ~~[SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)~~
+- ~~[SOLID Principles with Code](https://blog.algomaster.io/p/solid-principles-explained-with-code)~~
+- ~~[DRY Principle](https://blog.algomaster.io/p/082450d8-0e7b-4447-a8dc-b7308e45f048)~~
 - [YAGNI Principle](https://blog.algomaster.io/p/8c3c7da7-885b-4a9c-a6e4-70ee02de4772)
 - [KISS Principle](https://blog.algomaster.io/p/21b57678-b351-4ed4-b390-3b6308af2f7d)
 - [Coursera - Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
 
 ## ⚙️ Design Patterns
 ### Creational Patterns
-- [Singleton](https://blog.algomaster.io/p/singleton-design-pattern)
+- ~~[Singleton](https://blog.algomaster.io/p/singleton-design-pattern)~~
 - [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 - [Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
 - [Builder](https://refactoring.guru/design-patterns/builder)
@@ -54,7 +54,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Design Logging Framework](problems/logging-framework.md)
 - [Design Coffee Vending Machine](problems/coffee-vending-machine.md)
 - [Design Traffic Signal Control System](problems/traffic-signal.md)
-- [Design a Task Management System](problems/task-management-system.md)
+- ~~[Design a Task Management System](problems/task-management-system.md)~~
 ### Medium
 - [Design Pub Sub System](problems/pub-sub-system.md)
 - [Design Tic Tac Toe Game](problems/tic-tac-toe.md)
@@ -67,7 +67,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Design a Library Management System](problems/library-management-system.md)
 - [Design Restaurant Management System](problems/restaurant-management-system.md)
 - [Design Airline Management System](problems/airline-management-system.md)
-- [Design a Digital Wallet System](problems/digital-wallet-system.md)
+- ~~[Design a Digital Wallet System](problems/digital-wallet-system.md)~~
 - [Design an Online Auction System](problems/online-auction-system.md)
 - [Design a Concert Ticket Booking System](problems/concert-ticketing-system.md)
 - [Design a Cache using LRU Eviction Policy](problems/lru-cache.md)
